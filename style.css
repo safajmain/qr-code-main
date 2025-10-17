@@ -19,9 +19,9 @@ body {
   border-radius: 20px;
   text-align: center;
   padding: 13px 20px;
-  width: 320px;
+  width: 300px;
   box-shadow: 15px 5px 15px rgba(0, 0, 0, 0.1);
-  margin-top: 90px;
+  margin-top: 150px;
 }
 
 img {
@@ -39,6 +39,8 @@ h1 {
 
 p {
   margin-bottom: 20px;
+  margin-left: 20PX ;
+    margin-right: 20PX ;    
   color: hsl(220, 15%, 55%);
 }
 
